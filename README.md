@@ -1,1 +1,1 @@
-page faite en cours de bootstrap composée du framework bootstrapo
+page faite en cours de bootstrap composée du framework bootstrap
